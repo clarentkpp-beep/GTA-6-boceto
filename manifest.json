@@ -1,0 +1,12 @@
+{
+  "name": "GTA Intelligence — Leonida Files",
+  "short_name": "GTA Intel",
+  "description": "Archivo comunitario independiente de GTA VI en español",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101018",
+  "theme_color": "#101018",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
