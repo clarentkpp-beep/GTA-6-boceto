@@ -1,1 +1,0 @@
-# GTA-6-boceto
