@@ -1,0 +1,27 @@
+GTA INTELLIGENCE — LEONIDA ATLAS (PAQUETE COMPLETO)
+
+Incluye la versión integrada de la web y los recursos necesarios:
+- Portada cinematográfica con Jason y Lucia (imagen de referencia).
+- Diseño oscuro premium con rosa neón, cyan y amarillo.
+- Animaciones CSS para el hero, tarjetas, botones, iconos y marcadores; respeta la preferencia de movimiento reducido.
+- Mapa de Leonida basado en la imagen elegida por el usuario, preparada a 3x resolución para suavizar el zoom.
+- Panel lateral estilo mapa interactivo con categorías, búsqueda, iconos y filtros.
+- Zoom, desplazamiento, restablecer vista, marcadores de ejemplo y creación de marcadores propios.
+- Archivo de descubrimientos, búsqueda, filtros, formulario local y perfiles de Jason y Lucia.
+- Diseño adaptable a iPhone y escritorio.
+- PWA: manifest, icono y service worker con caché versionada.
+
+INSTALACIÓN
+1. Descomprime este ZIP.
+2. En GitHub, abre el repositorio GTA-6-boceto, rama main.
+3. Sube el contenido de esta carpeta a la raíz del repositorio; sustituye los archivos correspondientes y sube la carpeta assets completa.
+4. Confirma los cambios y espera a que GitHub Pages publique.
+5. Si aparece una versión antigua, abre la web en una pestaña privada o recarga. El service worker cambia de caché en esta versión.
+
+LIMITACIONES IMPORTANTES
+- El mapa está basado en una sola imagen, aunque se ha ampliado a 3x resolución. El escalado no recupera detalles que no existían en la fuente. Para nitidez real calle por calle se necesitan mosaicos de alta resolución con licencia compatible.
+- Los marcadores de muestra son ilustrativos, no ubicaciones verificadas del juego.
+- Los marcadores personalizados y las fichas del archivo se guardan localmente en este navegador. No se sincronizan entre usuarios; para eso hace falta backend/base de datos y moderación.
+- Las animaciones son efectos de interfaz; los retratos del banner no son vídeo animado.
+- La imagen del mapa no está verificada como mapa oficial definitivo de GTA VI.
+- Proyecto independiente de fans, no afiliado a Rockstar Games.
